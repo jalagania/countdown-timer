@@ -1,0 +1,16 @@
+.icons {
+  display: flex;
+  justify-content: center;
+  gap: 3rem;
+
+  position: absolute;
+  bottom: 10rem;
+}
+
+.icons svg {
+  fill: #8486a9;
+}
+
+.icons svg:hover {
+  fill: #fb6087;
+}
