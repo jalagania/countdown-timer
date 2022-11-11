@@ -2,10 +2,10 @@
 
 ### Links
 
-- Live Site URL:
+- Live Site URL: https://countdown-timer-beka.netlify.app
 
 ### Built with
 
 - HTML5
-- SCSS (CSS Grid, Flexbox, CSS custom properties)
+- CSS (CSS Grid, Flexbox)
 - REACT
